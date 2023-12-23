@@ -2,7 +2,7 @@
 
 Утилита должна запускаться следующим образом:
 
-`traceroute [OPTIONS] IP_ADDRESS {tcp|udp|icmp}`
+`python3 -m traceroute [OPTIONS] IP_ADDRESS {tcp|udp|icmp}`
 
 
 Опции `[OPTIONS]` должны быть следующие:
